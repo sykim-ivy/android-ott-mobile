@@ -1,4 +1,4 @@
-package com.ivytoy.ottmobile.ui.gallery
+package com.ivytoy.setting.ui.gallery
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

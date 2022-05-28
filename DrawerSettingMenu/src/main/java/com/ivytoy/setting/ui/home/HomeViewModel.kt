@@ -1,4 +1,4 @@
-package com.ivytoy.ottmobile.ui.home
+package com.ivytoy.setting.ui.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

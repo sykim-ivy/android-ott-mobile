@@ -1,4 +1,4 @@
-package com.ivytoy.ottmobile.ui.slideshow
+package com.ivytoy.setting.ui.slideshow
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

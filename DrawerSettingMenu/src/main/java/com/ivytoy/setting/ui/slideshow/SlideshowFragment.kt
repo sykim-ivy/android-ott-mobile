@@ -1,4 +1,4 @@
-package com.ivytoy.ottmobile.ui.slideshow
+package com.ivytoy.setting.ui.slideshow
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.ivytoy.ottmobile.R
+import com.ivytoy.setting.R
 
 class SlideshowFragment : Fragment() {
 

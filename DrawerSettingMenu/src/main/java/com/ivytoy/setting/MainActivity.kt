@@ -1,4 +1,4 @@
-package com.ivytoy.ottmobile
+package com.ivytoy.setting
 
 import android.os.Bundle
 import android.view.Menu

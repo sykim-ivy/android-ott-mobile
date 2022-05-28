@@ -1,4 +1,4 @@
-package com.ivytoy.ottmobile
+package com.ivytoy.setting
 
 import org.junit.Test
 
