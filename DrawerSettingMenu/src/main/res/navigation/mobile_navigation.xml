@@ -3,23 +3,26 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/nav_home">
+    app:startDestination="@+id/nav_noti">
 
     <fragment
-        android:id="@+id/nav_home"
+        android:id="@+id/nav_noti"
         android:name="com.ivytoy.setting.ui.home.HomeFragment"
-        android:label="@string/menu_home"
+        android:label="@string/menu_noti_setting"
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
+        android:id="@+id/nav_child_setting"
         android:name="com.ivytoy.setting.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:label="@string/menu_child_setting"
         tools:layout="@layout/fragment_gallery" />
 
+    <!-- 채널설정 2Depth Fragment -->
     <fragment
-        android:id="@+id/nav_slideshow"
+        android:id="@+id/R.id.nav_channel_favor"
         android:name="com.ivytoy.setting.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:label="@string/menu_channel_setting_favor"
         tools:layout="@layout/fragment_slideshow" />
+
+
 </navigation>

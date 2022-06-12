@@ -5,16 +5,16 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_noti"
-            android:icon="@drawable/ic_menu_1d_notifications"
-            android:title="@string/menu_noti_setting" />
+            android:id="@+id/nav_2d_back"
+            android:icon="@drawable/ic_menu_2d_back"
+            android:title="@string/menu_back_depth" />
         <item
-            android:id="@+id/nav_child_setting"
+            android:id="@+id/nav_channel_favor"
             android:icon="@drawable/ic_menu_1d_child_setting"
-            android:title="@string/menu_child_setting" />
+            android:title="@string/menu_channel_setting_favor" />
         <item
-            android:id="@+id/nav_channel_setting"
+            android:id="@+id/nav_channel_info"
             android:icon="@drawable/ic_menu_1d_channel_setting"
-            android:title="@string/menu_channel_setting" />
+            android:title="@string/menu_channel_setting_info" />
     </group>
 </menu>
